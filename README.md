@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python, c, cpp, and labview projects
 -     I'm a retired Test/Quality Engineer (ASQC certified)
+-     ( I wrote software to control and perform final testing on Automotive OEM Electronics and RF products)
 - 📫 How to reach me krbergerstock@gmail.com
 
 <!---
